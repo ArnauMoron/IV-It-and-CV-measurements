@@ -1,0 +1,23 @@
+#####		HOW TO CREATE AN EXE FROM A .PY		#####
+
+
+
+To make it lighter and faster, create a virtual environment in your computer using: 
+	-python -m venv name
+
+Activate it:
+	-name\Scripts\actívate
+
+Install the requirements f the program:
+	-pip install -r requirements.txt
+
+Install auto-py-to-exe (graphical interface that uses pyinstaller)
+	-pip install auto-py-to-exe
+
+Select all the files that are necessary and icons and chose the one directory option.
+
+A .exe file now, should have been created that works only with a directory called _internal.
+
+Install in your computer Inno Setup Compiler.
+
+Run and compile one of the files that appear in this repository.
