@@ -1,4 +1,4 @@
-# iV and iT Measurement Program
+# IV and It Measurement Program
 
 This program allows for simultaneous measurements of leakage current (IV) and test current (It) using two Keithley 2410 multimeters. It is also designed to work with any multimeter compatible with the SCPI language, but has not been tested.
 
