@@ -1,0 +1,4 @@
+matplotlib==3.8.4
+numpy==1.24.3
+PyQt5==5.15.11
+PyVISA==1.14.1
