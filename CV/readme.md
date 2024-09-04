@@ -23,7 +23,7 @@ Additionally, you need to install the appropriate backend for `pyvisa` compatibl
     pip install numpy matplotlib pyqt5 pyvisa
 
     Other packages may be needed
-    Also, ensure that you install the correct backend for `pyvisa` depending on your GPIB setup. For National Instruments, you can download the driver from [National Instruments](https://www.ni.com/es/support/downloads/drivers/download.ni-488-2.html#544048). If you are using Keysight hardware, download the IO Libraries Suite from [Keysight](https://www.keysight.com/us/en/lib/software-detail/computer-software/io-libraries-suite-downloads-2175637.html). Note that the Keysight backend has not been thoroughly tested.
+    Also, ensure that you install the correct backend for `pyvisa` depending on your GPIB setup. For National Instruments, you can download the driver from [National Instruments](https://www.ni.com/es/support/downloads/drivers/download.ni-488-2.html#544048). If you are using Keysight hardware, download the IO Libraries Suite from [Keysight](https://www.keysight.com/us/en/lib/software-detail/computer-software/io-libraries-suite-downloads-2175637.html). This program is compatible to work with both at the same time, but I encourage to work with National Instruments VISA as primary and Keysight VISA as secondary.
 
 3. **Configuration**:
     The program supports three different configurations:
